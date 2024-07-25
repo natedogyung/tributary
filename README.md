@@ -1,5 +1,5 @@
 # Tributary - Ford 
-Backend functionality using Flask, Redis, Docker, and Python to accomplish quick engine tempurature readings as well as averge data points
+Backend functionality using Flask, Redis, Docker, and Python to accomplish quick engine tempurature readings as well as average data points.
 
 
 ## Docker
